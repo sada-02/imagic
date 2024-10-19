@@ -1,3 +1,6 @@
+import sys
+sys.path.append("~/stable-diffusion")
+
 from io import BytesIO
 import torch
 import numpy as np
